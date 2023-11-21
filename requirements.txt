@@ -1,0 +1,6 @@
+pandas
+matplotlib
+seaborn
+streamlit
+babel.numbers
+format_currency
